@@ -13,4 +13,4 @@ def test_fib_negative_raise_error():
 
 
 def test_fib_9_is_34_recursive():
-    assert fibonacci_recursive(34) == 57
+    assert fibonacci_recursive(34) == 5702887
